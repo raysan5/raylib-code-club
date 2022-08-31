@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/raysan5/raylib/blob/master/raylib_code_club_rules.png">
+<img align="center" src="https://github.com/raysan5/raylib-code-club/blob/main/raylib_code_club_rules.png">
 
 # `raylib CODE CLUB` FAQ
 
