@@ -75,7 +75,7 @@ Yes, no language restrictions but used binding must provided the required functi
 
 ## Could the error messages used for reference?
 
-If some error message is detected, that means code has been compiled or some IDE helper mechanism is active, in taht case session is over.
+If some error message is detected, that means code has been compiled or some IDE helper mechanism is active, in that case session is over.
 
 ## Does "no code copying" means we can't use the cheatsheet or look at the header?
 
