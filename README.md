@@ -7,6 +7,10 @@
 
 It's a coding club using raylib programming library. Every coding session, members of the club have to solve in streaming some proposed coding challenges with raylib. They must follow the rules of `raylib CODE CLUB`.
 
+## How can I join `raylib CODE CLUB`?
+
+raylib is open to any raylib user that wants to participate, coding a proposed challenge in streaming in front of an audience and following the rules. Everyone can join the `raylib CODE CLUB` just asking for the `@raylib-cc-member` role on [raylib Discord](https://discord.gg/raylib) `#raylib-code-club` channel. Before joining, be aware of rule #8.
+
 ## How does it work exactly?
 
 Coding session are done in raylib Discord, in a specific `#raylib-code-club-ring` voice challenge. Participants with `@raylib-cc-member` role will be given a raylib coding challenge and they have to try to code it live in streaming, following the `raylib CODE CLUB` rules.
