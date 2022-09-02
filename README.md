@@ -119,6 +119,9 @@ Yes, the challenge is focused on logic, the graphics or shapes measures are up t
 
 If some specific graphics were required in more advance challenge, they will be provided.
 
+## What is the license of the codew written in the coding sessions?
+
+By default, provided template defines a zlib/libpng license, users are free to change it but it must be a permissive open source license.
 
 
-
+_NOTE: Feel free to send a PR if you need to add more questions to the FAQ_
